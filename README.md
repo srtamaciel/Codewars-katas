@@ -1,4 +1,4 @@
-# [**CODE WARS**](www.codewars.com/)
+# CODE WARS
 ## Check my profile → [*srtamaciel*](https://www.codewars.com/users/srtamaciel)
 ![](https://www.codewars.com/users/srtamaciel/badges/large)
 
