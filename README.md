@@ -1,5 +1,5 @@
-# [**CODE WARS**](www.codewars.com/r/tV9SHw)
-## You can check my profile: [*srtamaciel*](https://www.codewars.com/users/srtamaciel)
+# [**CODE WARS**](www.codewars.com/)
+## Check my profile → [*srtamaciel*](https://www.codewars.com/users/srtamaciel)
 ![](https://www.codewars.com/users/srtamaciel/badges/large)
 
 # Categories 📝
